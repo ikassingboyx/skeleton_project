@@ -1,0 +1,49 @@
+/*-------------body-------------*/
+body{
+    background-color: rgb(220, 220, 220);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    font-size: large;
+}
+/*-------------header-------------*/
+header{
+    background-image: url(../images/images.jpg);
+    
+    background-position: center;
+}
+
+h1{
+    font-family: initial;
+    font-size: 70px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px #000000;
+    color: #0796b9;
+}
+/*-------------form-------------*/
+input{
+    width:24px;
+    height:24px;
+    position: relative;
+    top:6px
+}
+.frm{
+    border: 1px solid #045569;
+    box-shadow: 8px 8px 5px #075d72;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+    margin-bottom: 20px;
+}
+/*-------------section-------------*/
+.portfolio{
+    position: relative;
+    padding: 12px 5px;
+}
+
+/*-------------footer-------------*/
+footer{
+
+    background-position: center;
+
+}
